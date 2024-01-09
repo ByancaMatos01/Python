@@ -4,4 +4,4 @@ Em um momento de busca por conhecimento e desafios, decidi mergulhar no vasto un
 Optei por começar minha jornada com Python, uma linguagem versátil e poderosa. <br>
 Foi então que encontrei o Curso em Vídeo do Gustavo Guanabara, uma referência na área de ensino de programação.
 
-# Exercicios de Python 
+# Exercícios de Python 
