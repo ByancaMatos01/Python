@@ -5,7 +5,22 @@ Optei por começar minha jornada com Python, uma linguagem versátil e poderosa.
 Foi então que encontrei o Curso em Vídeo do Gustavo Guanabara, uma referência na área de ensino de programação.
 
 # Exercícios de Python 
+
 # Exercicios Sequências 
+# *[Exercício 1]*
+
+* Faça um programa onde o usuario digite o nome dele é mostre uma mensagem de boas vindas
+## Tabela de Dados
+
+| Entrada  | Saida  | 
+|----------|--------
+| byanca   |prazer em te conhecer byanca |
+
+
+
+
+
+
 # *[Exercício 3]*
 
 * Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
@@ -16,6 +31,18 @@ mensagem explicativa, conforme exemplos.
 |----------|--------
 | 10  20   |Soma=30 |
 | 40  60   |Soma=100|
+
+
+# *[Exercício 4]*
+
+* Faça um programa para ler dois valores inteiros, e depois mostrar na tela a subtração desses números com uma
+mensagem explicativa, conforme exemplos.
+## Tabela de Dados
+
+| Entrada  | Saida  | 
+|----------|--------
+| 10  20   |Subtração=-10 |
+| 40  60   |butração=-20|
 
 
 # *[Exercício 5]*
