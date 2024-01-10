@@ -47,7 +47,7 @@ mensagem explicativa, conforme exemplos.
 | Entrada  | Saida  | 
 |----------|--------
 | 10  20   |Subtração=-10 |
-| 40  60   |butração=-20|
+| 40  60   |subtração=-20|
 
 
 # *[Exercício 5]*
