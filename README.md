@@ -16,8 +16,13 @@ Foi então que encontrei o Curso em Vídeo do Gustavo Guanabara, uma referência
 |----------|--------
 | byanca   |prazer em te conhecer byanca |
 
+# *[Exercício 2]*
+* Faça um programa onde o usuario digite sua data de nascimento e mostre ela completa
+## Tabela de Dados
 
-
+| Entrada  | Saida  | 
+|----------|--------
+| 28 nov 2003  |Você nasceu em 28 de nov de 2003 |
 
 
 
