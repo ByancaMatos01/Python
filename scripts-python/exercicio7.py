@@ -1,0 +1,6 @@
+number=int(input("Digite o número do funcionário")
+valorhora=int(input("Digite o valor hora recebida")
+horasTrabalhadas=int(input("Digite o valor de horas trabalhada")
+salary=(valorhora*horasTrabalhadas)
+print('numero do funcionário é', number)
+print('salario=',salary)
